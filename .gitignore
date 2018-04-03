@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/Calculator/v15/sqlite3
+/Calculator/obj/Debug
+/Calculator/bin/Debug/Calculator.pdb
